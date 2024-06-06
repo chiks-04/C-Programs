@@ -1,2 +1,3 @@
 # C-Programs
-I have make some C language programs
+I have made some C language programs and C learning codes.
+Author: Chirag Dube
